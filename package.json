@@ -1,0 +1,14 @@
+{
+  "name": "dir-exec",
+  "version": "2019.4.13",
+  "description": "process elapsed time",
+  "keywords": [
+    "pid",
+    "elapsed"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/dir-exec",
+  "license": "Unlicense",
+  "bin": {
+    "dir-exec": "./scripts/dir-exec"
+  }
+}
