@@ -1,10 +1,10 @@
 {
   "name": "dir-exec",
-  "version": "2019.4.13",
-  "description": "process elapsed time",
+  "version": "2019.5.22",
+  "description": "execute command from every dir",
   "keywords": [
-    "pid",
-    "elapsed"
+    "exec",
+    "dir"
   ],
   "homepage": "https://github.com/looking-for-a-job/dir-exec",
   "license": "Unlicense",
