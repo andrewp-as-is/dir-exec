@@ -1,6 +1,6 @@
 {
   "name": "dir-exec",
-  "version": "2019.5.22",
+  "version": "2020.12.3",
   "description": "execute command from every dir",
   "keywords": [
     "exec",
